@@ -29,7 +29,7 @@ export default function Curriculum() {
           <iframe
             className="resp_iframe"
             title="Curriculum"
-            src="https://drive.google.com/file/d/1DeR2e42bwk42lJXBaheTuAegIrvc26wK/preview"
+            src="https://drive.google.com/file/d/1-Jpf6W2PGt5-cpXbgMbwgfk639UXtJ5m/preview"
             frameBorder="0"
             allowFullScreen
           />
