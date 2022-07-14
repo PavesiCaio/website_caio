@@ -123,16 +123,16 @@ export default function About() {
               <h1 className="about__info__heading">Education</h1>
 
               <AboutInfoItem
-                title="University"
-                items={['BaEng. Production Engineering at UDESC']}
+                title="UDESC"
+                items={['BaEng. Production Engineering']}
               />
               <AboutInfoItem
-                title="College"
-                items={['AA. Automotive Mainetenance at SENAI']}
+                title="SENAI"
+                items={['AA. Automotive Production']}
               />
               <AboutInfoItem
-                title="School"
-                items={['School of the Holy Angels']}
+                title="SENAI"
+                items={['AA. Automotive Mainetenance']}
               />
             </div>
             <div className="about__info__item">
